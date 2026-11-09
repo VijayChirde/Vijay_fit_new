@@ -1,0 +1,11 @@
+{
+  "name": "VIJAY FIT — 180 Day Transformation",
+  "short_name": "VIJAY FIT",
+  "description": "Offline personal fitness tracker and six-month training programme",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090d0a",
+  "theme_color": "#0b100c",
+  "orientation": "portrait"
+}
